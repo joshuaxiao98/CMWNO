@@ -1,5 +1,5 @@
 # Coupled Multiwavelet Neural Operator
-[ICLR_structure.pdf](https://github.com/joshuaxiao98/CMWNO/files/10780171/ICLR_structure.pdf)  
+![Image](https://github.com/joshuaxiao98/CMWNO/blob/main/Sources/CMWNO_structure.jpg)  
 Coupled Multiwavelet Neural Operator Learning for Coupled Partial Differential Equations
 ## Setup
 ### Requirements
