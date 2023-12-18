@@ -15,7 +15,7 @@ Please ensure that your system meets these requirements to run the code package 
 
 ### Data Generation
 - **Matlab Requirement**: The synthetic datasets are generated using Matlab files located in the `Data` folder. Ensure that you have Matlab installed, along with the `chebfun` package.
-- **Dataset**: A sample dataset for the non-local Mean Field Game (MFG) problem is available. You can find this under the `MFG data` directory.
+- **Dataset**: A sample dataset for the non-local Mean Field Game (MFG) problem is available. You can find this under the `Data` directory.
 
 ### Running Experiments
 - **Code Execution**: To run the experiments, navigate to the `model` file. This file contains the necessary codes for executing the experiments related to our project.
