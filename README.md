@@ -5,5 +5,6 @@ Coupled Multiwavelet Neural Operator Learning for Coupled Partial Differential E
 ### Requirements
 The code package is developed using Python 3.8 and Pytorch 1.8 with cuda 11.0.
 ## Experiments
+The matlab files in Data folder are used to generate the synthetic datasets.
 The sample generated dataset for the non-local MFG problem is uploaded at MFG data.  
 The codes to run the experiments can be found in the file 'model.'
